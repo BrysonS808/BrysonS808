@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BrysonS808
-- 👀 I’m interested in ...
 - 🌱 I’m currently attending Cal Poly SLO for Computer Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bryson.shishido808@gmail.com
 
 <!---
